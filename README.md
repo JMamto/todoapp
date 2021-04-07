@@ -1,1 +1,1 @@
-AmtoAleonar Todo App.
+AmtoAleonar Todo app
